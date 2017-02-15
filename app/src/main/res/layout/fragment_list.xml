@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.akashungarala.task_manager.ListFragment">
+
+    <ListView
+        android:id="@+id/lvTasks"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:smoothScrollbar="true"
+        android:layout_gravity="fill_vertical"
+        android:layout_alignParentTop="true" >
+    </ListView>
+
+</FrameLayout>

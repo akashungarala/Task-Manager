@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/save_task"
+        android:icon="@drawable/logo_mdpi"
+        android:showAsAction="always"
+        android:orderInCategory="1"
+        android:title="@string/save_button">
+    </item>
+    <item
+        android:id="@+id/close_task"
+        android:icon="@drawable/logo_mdpi"
+        android:showAsAction="always"
+        android:orderInCategory="2"
+        android:title="@string/cancel_button">
+    </item>
+</menu>

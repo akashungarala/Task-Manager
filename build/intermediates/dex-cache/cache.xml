@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9e80cc93e41ad51fd13f78499bf932d426cf7550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.1_bb265da7d55ea675407d7c94f9cee755b9997f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_551988f1a5aa705687259d84edcf31a42dd686cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ff0d32317c928f07226c0ce25b03547568eb7754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_a3a1a0acb423fc6b772a81aa47a32332b048a0a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_29195f7e4eb992b9a62ab50465b7007402c967db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_95b8c4b9691209cdde9f7d7a058787e48f868131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_ef3254f0f6a0f41e3fcf137ce54e91b4800411ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.1_ac70dee985dffd699d004cdd46bcfa1c35ca977c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_32a0b426c8151f4d71108a692492f3284eda4317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_166d46a96bfdaeabf262bf6a7dc866fc2b83981c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e27b3d3953bf3edda0b17b65ae917546ae7eb209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_954c2c67fb3f524a666cb47fb465b430d1c0a624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ad212a04a1c0e6dd5690af340206250e7b5197aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_5d2a8c850517e93a20ff238229aa1fecf464caf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_9dd2a85ad969aac941705de67eb1d6e1f13f1941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_ad581fd7fbd11f64bf076014fc89be08dc611383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_b7312aab38773bfb755ee1798ce750187458b8b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_108c12182ddc62a4f56b892b59df0e8fe5fc18c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_70844ca352b520ff19735705461531f77dfefeee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2b9342ee320b2e15779edd7e750c3797cb8504fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ecb6afa5157223f21183886d873af4efd2ffed19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a5c8186dd25424221080bc28f2f88dbf7faa1916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_108912c059b8f962db7296d0755f5f50267ca867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_0b7d73f4bea3b34fb2f43587238bb607d4db4c6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_fbe84606e82349af190469e8e39512967c4cbca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_aae08a612336ad5cf62226d0df26bab13ea65edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_79d16a66390766c0d2d75eeda4e612587135eec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_6fc8101aba3f5e9f86a745ca5a3d9652c25c11a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.6.1_198ee491e3fa2f859e67ea15837cec9f6e121cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_8699db14817c1a66df2f8255df49686a6392d05b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/akashungarala/Storage/Projects/Android/Task Manager/Task-Manager/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_c1cffa7651a5761ab9955e322b524ce1d1f5926b.jar" />
+    </item>
+
+</items>

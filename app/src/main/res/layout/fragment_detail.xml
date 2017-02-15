@@ -1,0 +1,212 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.akashungarala.task_manager.DetailFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:id="@+id/llTaskName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="8"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:text="@string/task_name_label"
+                android:textStyle="bold"
+                android:textColor="@color/colorHigh"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:padding="3dp" />
+
+            <TextView
+                android:id="@+id/tvTaskName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:textStyle="bold"
+                android:textColor="@color/colorGreen"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:gravity="center"
+                android:padding="3dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llTaskPriorityLevel"
+            android:layout_below="@+id/llTaskName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="8"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:text="@string/task_priority_level_label"
+                android:textStyle="bold"
+                android:textColor="@color/colorHigh"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:padding="3dp" />
+
+            <TextView
+                android:id="@+id/tvTaskPriority"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:gravity="center"
+                android:padding="3dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llTaskStatus"
+            android:layout_below="@+id/llTaskPriorityLevel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="8"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:text="@string/task_status_label"
+                android:textStyle="bold"
+                android:textColor="@color/colorHigh"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:padding="3dp" />
+
+            <TextView
+                android:id="@+id/tvTaskStatus"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:gravity="center"
+                android:padding="3dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llTaskDueDate"
+            android:layout_below="@+id/llTaskStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="8"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:text="@string/task_due_date_label"
+                android:textStyle="bold"
+                android:textColor="@color/colorHigh"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:padding="3dp" />
+
+            <TextView
+                android:id="@+id/tvTaskDueDate"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:textStyle="bold"
+                android:textColor="@color/colorGreen"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:gravity="center"
+                android:padding="3dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llTaskNotes"
+            android:layout_below="@+id/llTaskDueDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="8"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:text="@string/task_notes_label"
+                android:textStyle="bold"
+                android:textColor="@color/colorHigh"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:padding="3dp" />
+
+            <TextView
+                android:id="@+id/tvTaskNotes"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:textStyle="bold"
+                android:textColor="@color/colorGreen"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:gravity="center"
+                android:padding="3dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_below="@+id/llTaskNotes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnEdit"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:textStyle="bold"
+                android:text="@string/edit_button"
+                android:textColor="@color/colorWhite"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:background="@color/colorGreen"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/btnRemove"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:text="@string/remove_button"
+                android:textColor="@color/colorWhite"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:background="@color/colorGreen"
+                android:layout_gravity="center" />
+
+            <Button
+                android:id="@+id/btnCancel"
+                android:layout_width="200dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:text="@string/cancel_button"
+                android:textColor="@color/colorWhite"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:background="@color/colorGreen"
+                android:layout_gravity="center" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">Task-Manager</string>
+    <string name="app_name">Task Manager</string>
+    <string name="title">Task Manager</string>
+    <string name="task_name_label">Task Name</string>
+    <string name="task_name_hint">Enter name of task</string>
+    <string name="task_notes_label">Task Notes</string>
+    <string name="task_notes_hint">Enter notes for this task</string>
+    <string name="task_due_date_label">Due Date</string>
+    <string name="task_due_date_button">Select</string>
+    <string name="task_priority_level_label">Priority Level</string>
+    <string name="task_status_label">Status</string>
+    <string name="add_button">Add Task</string>
+    <string name="save_button">Save Task</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="edit_button">Edit Task</string>
+    <string name="remove_button">Remove Task</string>
+    <string name="fragment_tag_list">list_fragment</string>
+    <string name="fragment_tag_add">add_fragment</string>
+    <string name="fragment_tag_detail">detail_fragment</string>
+    <string-array name="priority_levels">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="status">
+        <item>Todo</item>
+        <item>Doing</item>
+        <item>Done</item>
+    </string-array>
 </resources>
