@@ -4,7 +4,7 @@
 
 Submitted by: **Akash Ungarala**
 
-Time spent: 9 hours spent in total
+Time spent: 10 hours spent in total
 
 ## User Stories
 
@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![task manager](https://cloud.githubusercontent.com/assets/7720015/22988710/ebfc6cee-f367-11e6-983f-aa9854b03a79.gif)
+![task manager](https://cloud.githubusercontent.com/assets/7720015/22994624/7444dfbe-f37c-11e6-8ea9-4bd4e5e5ae2a.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
