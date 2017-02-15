@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:text="@string/title"
         android:textSize="@dimen/splashTitle"
-        android:textColor="@color/colorGreen"
+        android:textColor="@color/colorTheme"
         android:textStyle="bold"
         android:id="@+id/tvSplashTitle"
         android:layout_above="@+id/ivSplashLogo"

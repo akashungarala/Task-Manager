@@ -182,9 +182,9 @@ public class AddFragment extends Fragment {
             }
             TextView t = (TextView) convertView.findViewById(R.id.tvPriorityDropdown);
             t.setText(priorityList[position]);
-            if (t.getText().toString().equals("High")) t.setBackgroundColor(getResources().getColor(R.color.colorHigh));
-            else if (t.getText().toString().equals("Medium")) t.setBackgroundColor(getResources().getColor(R.color.colorMedium));
-            else if (t.getText().toString().equals("Low")) t.setBackgroundColor(getResources().getColor(R.color.colorLow));
+            if (t.getText().toString().equals("High")) t.setTextColor(getResources().getColor(R.color.colorHigh));
+            else if (t.getText().toString().equals("Medium")) t.setTextColor(getResources().getColor(R.color.colorMedium));
+            else if (t.getText().toString().equals("Low")) t.setTextColor(getResources().getColor(R.color.colorLow));
             return convertView;
         }
         @Override
@@ -195,9 +195,9 @@ public class AddFragment extends Fragment {
             }
             TextView t = (TextView) convertView.findViewById(R.id.tvPrioritySelectedItem);
             t.setText(priorityList[position]);
-            if (t.getText().toString().equals("High")) t.setBackgroundColor(getResources().getColor(R.color.colorHigh));
-            else if (t.getText().toString().equals("Medium")) t.setBackgroundColor(getResources().getColor(R.color.colorMedium));
-            else if (t.getText().toString().equals("Low")) t.setBackgroundColor(getResources().getColor(R.color.colorLow));
+            if (t.getText().toString().equals("High")) t.setTextColor(getResources().getColor(R.color.colorHigh));
+            else if (t.getText().toString().equals("Medium")) t.setTextColor(getResources().getColor(R.color.colorMedium));
+            else if (t.getText().toString().equals("Low")) t.setTextColor(getResources().getColor(R.color.colorLow));
             return convertView;
         }
     }
@@ -219,9 +219,9 @@ public class AddFragment extends Fragment {
             }
             TextView t = (TextView) convertView.findViewById(R.id.tvStatusDropdown);
             t.setText(statusList[position]);
-            if (t.getText().toString().equals("Todo")) t.setBackgroundColor(getResources().getColor(R.color.colorTodo));
-            else if (t.getText().toString().equals("Doing")) t.setBackgroundColor(getResources().getColor(R.color.colorDoing));
-            else if (t.getText().toString().equals("Done")) t.setBackgroundColor(getResources().getColor(R.color.colorDone));
+            if (t.getText().toString().equals("Todo")) t.setTextColor(getResources().getColor(R.color.colorTodo));
+            else if (t.getText().toString().equals("Doing")) t.setTextColor(getResources().getColor(R.color.colorDoing));
+            else if (t.getText().toString().equals("Done")) t.setTextColor(getResources().getColor(R.color.colorDone));
             return convertView;
         }
         @Override
@@ -232,9 +232,9 @@ public class AddFragment extends Fragment {
             }
             TextView t = (TextView) convertView.findViewById(R.id.tvStatusSelectedItem);
             t.setText(statusList[position]);
-            if (t.getText().toString().equals("Todo")) t.setBackgroundColor(getResources().getColor(R.color.colorTodo));
-            else if (t.getText().toString().equals("Doing")) t.setBackgroundColor(getResources().getColor(R.color.colorDoing));
-            else if (t.getText().toString().equals("Done")) t.setBackgroundColor(getResources().getColor(R.color.colorDone));
+            if (t.getText().toString().equals("Todo")) t.setTextColor(getResources().getColor(R.color.colorTodo));
+            else if (t.getText().toString().equals("Doing")) t.setTextColor(getResources().getColor(R.color.colorDoing));
+            else if (t.getText().toString().equals("Done")) t.setTextColor(getResources().getColor(R.color.colorDone));
             return convertView;
         }
     }

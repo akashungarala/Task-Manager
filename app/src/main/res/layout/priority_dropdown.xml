@@ -6,7 +6,6 @@
     android:layout_height="wrap_content"
     android:ellipsize="marquee"
     android:textSize="15sp"
-    android:textColor="@color/colorWhite"
     android:textStyle="bold"
     android:textAppearance="?android:textAppearanceMedium"
     android:textAlignment="center"

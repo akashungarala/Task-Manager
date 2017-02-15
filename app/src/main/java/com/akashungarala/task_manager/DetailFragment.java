@@ -34,12 +34,12 @@ public class DetailFragment extends Fragment {
         tvTaskStatus.setText(task.getStatus());
         tvTaskDueDate.setText(task.getDue_date());
         tvTaskNotes.setText(task.getNotes());
-        if(task.getPriority_level().equals("High")) tvTaskPriority.setBackgroundColor(main.getResources().getColor(R.color.colorHigh));
-        else if(task.getPriority_level().equals("Medium")) tvTaskPriority.setBackgroundColor(main.getResources().getColor(R.color.colorMedium));
-        else if(task.getPriority_level().equals("Low")) tvTaskPriority.setBackgroundColor(main.getResources().getColor(R.color.colorLow));
-        if(task.getStatus().equals("Todo")) tvTaskStatus.setBackgroundColor(main.getResources().getColor(R.color.colorTodo));
-        else if(task.getStatus().equals("Doing")) tvTaskStatus.setBackgroundColor(main.getResources().getColor(R.color.colorDoing));
-        else if(task.getStatus().equals("Done")) tvTaskStatus.setBackgroundColor(main.getResources().getColor(R.color.colorDone));
+        if(task.getPriority_level().equals("High")) tvTaskPriority.setTextColor(main.getResources().getColor(R.color.colorHigh));
+        else if(task.getPriority_level().equals("Medium")) tvTaskPriority.setTextColor(main.getResources().getColor(R.color.colorMedium));
+        else if(task.getPriority_level().equals("Low")) tvTaskPriority.setTextColor(main.getResources().getColor(R.color.colorLow));
+        if(task.getStatus().equals("Todo")) tvTaskStatus.setTextColor(main.getResources().getColor(R.color.colorTodo));
+        else if(task.getStatus().equals("Doing")) tvTaskStatus.setTextColor(main.getResources().getColor(R.color.colorDoing));
+        else if(task.getStatus().equals("Done")) tvTaskStatus.setTextColor(main.getResources().getColor(R.color.colorDone));
         btnEdit = (Button) main.findViewById(R.id.btnEdit);
         btnRemove = (Button) main.findViewById(R.id.btnRemove);
         btnCancel = (Button) main.findViewById(R.id.btnCancel);
